@@ -3,3 +3,4 @@
  */
 /some script will be written
 alert("some message");
+console.log("Something");
